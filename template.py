@@ -9,7 +9,7 @@ list_of_files=[
     ".env",
     "setup.py",
     "app.py",
-    "research/trials/ipynb"
+    "research/trials.ipynb"
 ]
 for file in list_of_files:
     file_path = Path(file)
